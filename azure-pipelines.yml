@@ -1,0 +1,26 @@
+trigger:
+- main
+
+pool:
+  vmImage: ubuntu-latest
+
+steps:
+
+- task: UsePythonVersion@0
+  inputs:
+    versionSpec: '3.11'
+
+- script: |
+    python -m pip install --upgrade pip
+    pip install -r requirements.txt
+  displayName: Install Python Dependencies
+
+- script: |
+    python expense_analysis.py
+  displayName: Run Expense Analysis
+
+- task: PublishBuildArtifacts@1
+  inputs:
+    PathtoPublish: output
+    ArtifactName: ExpenseReport
+    publishLocation: Container
