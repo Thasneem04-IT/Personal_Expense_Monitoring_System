@@ -1,0 +1,31 @@
+expense_id,user_id,date,category,amount,description
+E001,U001,2026-01-05,Food,2500,Groceries
+E002,U001,2026-01-10,Transport,1200,Cab Fare
+E003,U001,2026-01-20,Shopping,5000,Clothes Purchase
+E004,U002,2026-01-03,Food,3000,Restaurant
+E005,U002,2026-01-12,Utilities,2500,Electricity Bill
+E006,U002,2026-01-25,Shopping,7000,Online Shopping
+E007,U003,2026-01-08,Food,1800,Groceries
+E008,U003,2026-01-15,Entertainment,6000,Movie and Dinner
+E009,U003,2026-01-28,Transport,1500,Fuel
+E010,U004,2026-01-04,Food,2200,Grocery Shopping
+E011,U004,2026-01-14,Utilities,3000,Internet Bill
+E012,U004,2026-01-22,Shopping,4500,Accessories
+E013,U005,2026-01-02,Food,4000,Restaurant
+E014,U005,2026-01-11,Transport,2500,Fuel
+E015,U005,2026-01-29,Shopping,12000,Laptop Accessories
+E016,U006,2026-01-07,Food,1500,Grocery
+E017,U006,2026-01-18,Utilities,2000,Water Bill
+E018,U006,2026-01-26,Entertainment,3500,Video Games
+E019,U007,2026-01-06,Food,3500,Restaurant
+E020,U007,2026-01-16,Transport,2200,Cab Fare
+E021,U007,2026-01-27,Shopping,9000,Electronics
+E022,U008,2026-01-09,Food,2000,Grocery
+E023,U008,2026-01-19,Utilities,1800,Mobile Recharge
+E024,U008,2026-01-30,Entertainment,4000,Concert Ticket
+E025,U009,2026-01-03,Food,5000,Restaurant
+E026,U009,2026-01-13,Transport,3000,Fuel
+E027,U009,2026-01-24,Shopping,18000,New Smartphone
+E028,U010,2026-01-05,Food,2800,Grocery
+E029,U010,2026-01-17,Utilities,2200,Internet Bill
+E030,U010,2026-01-28,Shopping,6000,Clothing

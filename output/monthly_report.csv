@@ -1,0 +1,11 @@
+user_id,month,monthly_expense,user_name,email,monthly_income,savings,alert
+U001,2026-01,8700,Arun,arun@gmail.com,50000,41300,Normal
+U002,2026-01,12500,Priya,priya@gmail.com,60000,47500,Normal
+U003,2026-01,9300,Karthik,karthik@gmail.com,45000,35700,Normal
+U004,2026-01,9700,Meena,meena@gmail.com,55000,45300,Normal
+U005,2026-01,18500,Ravi,ravi@gmail.com,70000,51500,Normal
+U006,2026-01,7000,Anitha,anitha@gmail.com,40000,33000,Normal
+U007,2026-01,14700,Suresh,suresh@gmail.com,65000,50300,Normal
+U008,2026-01,7800,Lakshmi,lakshmi@gmail.com,48000,40200,Normal
+U009,2026-01,26000,Vijay,vijay@gmail.com,75000,49000,High Spending
+U010,2026-01,11000,Divya,divya@gmail.com,52000,41000,Normal
